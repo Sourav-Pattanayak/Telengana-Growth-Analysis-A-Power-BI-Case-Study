@@ -9,3 +9,9 @@ For detailed inspection,please have a look at my
 -[Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTNkY2U5OWUtMzFmZS00ODFiLWE2ZTEtM2VkNWUyZmI5MTNkIiwidCI6IjRmNmU2NDBmLTI5ZDktNGNkYS04YjFkLTY4NWM1OGEwZGEzMiJ9).
 
 -[LinkedIN Post](https://www.linkedin.com/posts/sourav-insights_codebasicsresumeprojectchallenge-dataanalysis-activity-7137081481096482816-J9qt?utm_source=share&utm_medium=member_desktop).
+
+
+Data Model:
+
+
+![Screenshot (721)](https://github.com/Sourav-Pattanayak/Telengana-Growth-Analysis-A-Power-BI-Case-Study/assets/124489158/a6160543-0fee-4888-9d1a-85c4b9d1e908)
