@@ -8,7 +8,7 @@ For detailed inspection,please have a look at my
 
 -[Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTNkY2U5OWUtMzFmZS00ODFiLWE2ZTEtM2VkNWUyZmI5MTNkIiwidCI6IjRmNmU2NDBmLTI5ZDktNGNkYS04YjFkLTY4NWM1OGEwZGEzMiJ9).
 
--[LinkedIN Post](https://www.linkedin.com/posts/sourav-insights_codebasicsresumeprojectchallenge-dataanalysis-activity-7137081481096482816-J9qt?utm_source=share&utm_medium=member_desktop).
+-[LinkedIN Post](https://www.linkedin.com/posts/souravpattanayak96_codebasicsresumeprojectchallenge-dataanalysis-activity-7137081481096482816-e5JX?utm_source=share&utm_medium=member_desktop).
 
 
 Data Model:
